@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.button{
+  background: red;
+  cursor: pointer;
+  border: none;
+  border-bottom: 2px solid #123451;
+  color: white;
+  padding: 6px 8px;
+  border-radius: 8px;
+}
+
+form{
+  margin: auto;
+  width: 300px;
+  text-align: center;
+}
+
+.form{
+  margin: auto;
+  width: 300px;
+  text-align: center;
+}
+
+input{
+  width: 100%;
+  padding: 10px 8px;
+  border: 1px solid gray;
+}
+
+.form li{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: gray;
+  margin-bottom: 10px;
+  padding: 10px;
+  color: white;
+  width: 100%;
+} 
